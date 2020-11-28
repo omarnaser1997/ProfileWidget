@@ -37,7 +37,6 @@ class _MyAppState extends State<MyApp> {
 
         },
 
-
       ),
 
       body: Padding(
